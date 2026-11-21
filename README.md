@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://app.bercail.online"><img alt="Application" src="https://img.shields.io/badge/app-app.bercail.online-2f6f4f"></a>
-  <a href="https://bercail.online/android/bercail-1.3.0.apk"><img alt="Android" src="https://img.shields.io/badge/Android-1.3.0-3ddc84?logo=android&logoColor=white"></a>
+  <a href="https://bercail.online/android/bercail-1.3.1.apk"><img alt="Android" src="https://img.shields.io/badge/Android-1.3.1-3ddc84?logo=android&logoColor=white"></a>
   <a href="https://app.bercail.online/privacy.html"><img alt="Loi 25" src="https://img.shields.io/badge/Loi%2025-conforme-1f6feb"></a>
   <img alt="Gratuit" src="https://img.shields.io/badge/gratuit-sans%20pub%20%C2%B7%20sans%20pistage-555">
 </p>
